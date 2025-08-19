@@ -7,7 +7,7 @@
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/644.gif" alt="Zekrom" width="95">
   <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" alt="Pikachu" width="50">
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/448.gif" alt="Lucario" width="63">
-  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/006.gif" alt="Charizard" width="90">
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/006.gif" alt="Charizard" width="95">
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/327.gif" alt="Spinda" width="40">
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/024.gif" alt="Arbok" width="75">
 </p>
