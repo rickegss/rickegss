@@ -22,7 +22,7 @@
  <img alt="Python" src="https://github.com/user-attachments/assets/6e55cac1-9be4-46a8-b9ed-ee34e57a8584" width="70"/>
  <img alt="Pandas" src="https://images.opencollective.com/pandas/6e5c060/logo/256.png" height="90" width="100"/>
  <img alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="70"/>
- <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="50"/>        
+ <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="70"/>        
 </div>
 
 
