@@ -18,6 +18,9 @@
 </ul> 
 <hr>
 <h3>Known Technologies:</h3>
-
+<div>
+  <i class="devicon-python-plain"></i>
+         
+</div>
 
 
