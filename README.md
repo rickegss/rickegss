@@ -9,14 +9,15 @@
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/327.gif" alt="Spinda" width="40">
 </div>
 
-<br>
-<p>I'm Ricardo Gomes, passionate about technology, innovation, and learning.<br>I love experimenting with new tools and coding projects!</p>
+<p>Hi, I’m Ricardo Gomes! I’m passionate about technology, innovation, and continuous learning.<br>
+I love exploring new tools, building coding projects, and turning ideas into reality.</p>
 
 <ul>
- <li>I’m currently learning Python, HTML and CSS</li>
- <li>I'm interested in Data Science, Machine Learning and Back-End Development</li>
- <li>I’m looking to collaborate on easy projects and build a solid portfile</li>
-</ul> 
+  <li>Currently diving deep into Python, HTML, and CSS</li>
+  <li>Exploring Data Science, Machine Learning, and Back-End Development</li>
+  <li>Excited to collaborate on projects and grow a strong, versatile portfolio</li>
+</ul>
+
 <hr>
 <h3>Known Technologies:</h3>
 <div>
