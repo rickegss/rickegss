@@ -14,6 +14,7 @@
 
 <ul>
  <li>I’m currently learning Python, HTML and CSS</li>
+ <li>I'm interested in Data Science, Machine Learning and Back-End Development</li>
  <li>I’m looking to collaborate on easy projects and build a solid portfile</li>
 </ul> 
 <hr>
