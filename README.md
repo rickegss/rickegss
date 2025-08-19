@@ -1,4 +1,4 @@
-<h1>## Hi there 👋</h1>
+<h1>#Hi there#👋</h1>
 
 <div style="display: flex; align-items: center;">
   <p>I'm Ricardo Gomes, passionate about technology, innovation, and learning.</p>
