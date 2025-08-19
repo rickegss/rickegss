@@ -19,7 +19,7 @@
 <hr>
 <h3>Known Technologies:</h3>
 <div>
- <img alt="Python" src="https://github.com/user-attachments/assets/6e55cac1-9be4-46a8-b9ed-ee34e57a8584" width="10"/>
+ <img alt="Python" src="https://github.com/user-attachments/assets/6e55cac1-9be4-46a8-b9ed-ee34e57a8584" width="40"/>
 
  
           
