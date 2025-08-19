@@ -1,5 +1,5 @@
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <h1 style="margin: 0;">Hi there👋</h1>
+<h1>Hi there👋</h1>
+<div>
   <img src="https://64.media.tumblr.com/4d5b43e2e0dcd4a47128fdf85b9463e9/e7638102a47e4ee5-99/s1280x1920/68f4b6bd8f931af523c5d1391113763a947a07da.gifv" alt="Trainer" width="70">
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/644.gif" alt="Zekrom" width="100">
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/006.gif" alt="Charizard" width="95">
@@ -9,8 +9,6 @@
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/327.gif" alt="Spinda" width="40">
 </div>
 
-
-
 <br>
 <p>I'm Ricardo Gomes, passionate about technology, innovation, and learning.<br>I love experimenting with new tools and coding projects!</p>
 
@@ -18,7 +16,8 @@
  <li>I’m currently learning Python, HTML and CSS</li>
  <li>I’m looking to collaborate on easy projects and build a solid portfile</li>
 </ul> 
-
+<hr>
+<h3>Known Technologies:</h3>
 
 
 
