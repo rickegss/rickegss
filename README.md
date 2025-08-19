@@ -9,7 +9,7 @@
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/327.gif" alt="Spinda" width="40">
 </div>
 
-<p>My name is Ricardo Gomes! I’m passionate about technology, innovation, and continuous learning.<br>
+<p><br>My name is Ricardo Gomes! I’m passionate about technology, innovation, and continuous learning.<br>
 I love exploring new tools, building coding projects, and turning ideas into reality.</p>
 
 <ul>
