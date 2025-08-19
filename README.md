@@ -1,5 +1,3 @@
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />        
 <h1>Hi there👋</h1>
 <div>
   <img src="https://64.media.tumblr.com/4d5b43e2e0dcd4a47128fdf85b9463e9/e7638102a47e4ee5-99/s1280x1920/68f4b6bd8f931af523c5d1391113763a947a07da.gifv" alt="Trainer" width="70">
@@ -21,8 +19,8 @@
 <hr>
 <h3>Known Technologies:</h3>
 <div>
-
- <i class="devicon-python-plain"></i>
+ <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/661e3cf1-6fef-4db7-b5d9-3e6e0cb083bd" alt="Python" width="30"/>
+ 
           
           
          
