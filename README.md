@@ -1,6 +1,5 @@
-<h1>#Hi there#👋</h1>
-
-<div style="display: flex; align-items: center;">
+<h1>Hi there👋</h1>
+<div style="display: flex; align-items: right;">
   <p>I'm Ricardo Gomes, passionate about technology, innovation, and learning.</p>
   <p>I love experimenting with new tools and coding projects!</p>
   <div>
