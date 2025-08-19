@@ -4,7 +4,7 @@
 
 <p align="right">
   <img src="https://64.media.tumblr.com/4d5b43e2e0dcd4a47128fdf85b9463e9/e7638102a47e4ee5-99/s1280x1920/68f4b6bd8f931af523c5d1391113763a947a07da.gifv" alt="Trainer" width=70>
-  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/644.gif" alt="Zekrom" width="95">
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/644.gif" alt="Zekrom" width="100">
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/006.gif" alt="Charizard" width="95">
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/448.gif" alt="Lucario" width="63">
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/024.gif" alt="Arbok" width="75">
