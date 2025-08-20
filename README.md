@@ -25,7 +25,7 @@ I love exploring new tools, building coding projects, and turning ideas into rea
  <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="80"/>
  <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="131" width="57"/>
  <img alt="Pandas" src="https://images.opencollective.com/pandas/6e5c060/logo/256.png" height="80" width="99"/>
- <img alt="Matplotlib" src="https://image.pngaaa.com/242/4152242-middle.png" width="60"/>
+ <img alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" width="60"/>
 </div>
 
 
