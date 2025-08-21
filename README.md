@@ -24,7 +24,7 @@ I love exploring new tools, building coding projects, and turning ideas into rea
  <img title="Python" src="https://github.com/user-attachments/assets/6e55cac1-9be4-46a8-b9ed-ee34e57a8584" width="70"/>
  <img title="Pandas" src="https://images.opencollective.com/pandas/6e5c060/logo/256.png" height="80" width="99"/>
  <img title="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" height="85" width="70"/>
- <img title="Streamlit" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="120" width="150"/>
+ <img title="Streamlit" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="120" width="130"/>
  <img title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="80"/>
  <img title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="131" width="57"/>
 </div>
