@@ -22,8 +22,8 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 <h3>Known Technologies:</h3>
 <div>
  <img title="Python" src="https://github.com/user-attachments/assets/6e55cac1-9be4-46a8-b9ed-ee34e57a8584" width="70"/>
- <img title="Pandas" src="https://images.opencollective.com/pandas/6e5c060/logo/256.png" height="80" width="99"/>
- <img title="Plotly" src="https://store-images.s-microsoft.com/image/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.a46845e6-ce94-44cf-892b-54637c6fcf06" height="85" width="70"/>
+ <img title="Pandas" src="https://images.opencollective.com/pandas/6e5c060/logo/256.png" height="80" width="90"/>
+ <img title="Plotly" src="https://store-images.s-microsoft.com/image/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.a46845e6-ce94-44cf-892b-54637c6fcf06" height="90" width="75"/>
  <img title="Streamlit" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="120" width="130"/>
  <img title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="70"/>
  <img title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="125" width="50"/>
