@@ -1,12 +1,12 @@
 <h1>Hello there👋</h1>
 <div>
-  <img src="https://64.media.tumblr.com/4d5b43e2e0dcd4a47128fdf85b9463e9/e7638102a47e4ee5-99/s1280x1920/68f4b6bd8f931af523c5d1391113763a947a07da.gifv" title="Trainer" width="35" height="70">
-  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/644.gif" title="Zekrom" width="50" height="100">
-  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/006.gif" title="Charizard" width="47.5" height="95">
-  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/448.gif" title="Lucario" width="31.5" height="63">
-  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/024.gif" title="Arbok" width="37.5" height="75">
-  <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" title="Pikachu" width="25" height="50">
-  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/327.gif" title="Spinda" width="20" height="40">
+  <img src="https://64.media.tumblr.com/4d5b43e2e0dcd4a47128fdf85b9463e9/e7638102a47e4ee5-99/s1280x1920/68f4b6bd8f931af523c5d1391113763a947a07da.gifv" title="Trainer" width="56">
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/644.gif" title="Zekrom" width="80">
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/006.gif" title="Charizard" width="76">
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/448.gif" title="Lucario" width="50.4">
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/024.gif" title="Arbok" width="60">
+  <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" title="Pikachu" width="40">
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/327.gif" title="Spinda" width="32">
 </div>
 
 <p><br>My name is Ricardo Gomes! I’m passionate about technology, innovation, and continuous learning.<br>
