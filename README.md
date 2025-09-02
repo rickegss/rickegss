@@ -21,7 +21,7 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 <hr>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <h2>Social</h2>
+  <h2>Social:</h2>
   <div style="display: flex; gap: 20px;">
     <a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh" target="_blank">
       <img src="https://freelogopng.com/images/all_img/1683192847instagram-name-logo-black-and-white.png" alt="Instagram" width="65">
