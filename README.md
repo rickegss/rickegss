@@ -22,8 +22,8 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 
 <div>
   <a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh" target="_blank">
-    <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" alt="linkedin" width="40">
-    rickegss
+    <img src="https://img.icons8.com/ios_filled/512/linkedin.png" alt="linkedin" width="40">
+    Ricardo Gomes
   </a>
   <a href="www.linkedin.com/in/ricardo-gomes-da-silva-928bab297" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40">
