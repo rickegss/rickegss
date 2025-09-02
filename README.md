@@ -20,10 +20,10 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 
 <hr>
 
-<div style="display: flex; align-items: center; gap: 8px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" width="40">
-  <a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh">rickegss</a>
-</div>
+<a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40">
+  rickegss
+</a>
 
 <hr>
 <h3>Known Technologies:</h3>
