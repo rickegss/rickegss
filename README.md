@@ -20,7 +20,7 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 
 <hr>
 <div>
-  <img src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg" width=50>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width=50>
 </div>
 <h3>Known Technologies:</h3>
 <div>
