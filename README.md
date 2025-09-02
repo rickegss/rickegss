@@ -23,7 +23,7 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 <div>
   <h2>Social</h2>
   <a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM29YWTZAJ79FkRvkT1xmIw1o4EAXgsQ5-Hw&s" alt="Instagram" width="40">
+    <img src="https://freelogopng.com/images/all_img/1683192847instagram-name-logo-black-and-white.png" alt="Instagram" width="40">
   </a>
   <a href="www.linkedin.com/in/ricardo-gomes-da-silva-928bab297" target="_blank">
     <img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png" alt="linkedin" width="70">
