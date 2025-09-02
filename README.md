@@ -19,6 +19,9 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 </ul>
 
 <hr>
+<div>
+  <img src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg" width=50>
+</div>
 <h3>Known Technologies:</h3>
 <div>
  <img title="Python" src="https://github.com/user-attachments/assets/6e55cac1-9be4-46a8-b9ed-ee34e57a8584" width="70"/>
