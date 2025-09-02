@@ -20,8 +20,10 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 
 <hr>
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width=50>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width=55>
+  <a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh">rickegss</a>
 </div>
+<hr>
 <h3>Known Technologies:</h3>
 <div>
  <img title="Python" src="https://github.com/user-attachments/assets/6e55cac1-9be4-46a8-b9ed-ee34e57a8584" width="70"/>
