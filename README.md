@@ -19,8 +19,8 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 </ul>
 
 <hr>
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width=55>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Logo" width="60">
   <a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh">rickegss</a>
 </div>
 <hr>
