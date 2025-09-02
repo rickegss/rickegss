@@ -20,15 +20,18 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 
 <hr>
 
-<div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <h2>Social</h2>
-  <a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh" target="_blank">
-    <img src="https://freelogopng.com/images/all_img/1683192847instagram-name-logo-black-and-white.png" alt="Instagram" width="60">
-  </a>
-  <a href="www.linkedin.com/in/ricardo-gomes-da-silva-928bab297" target="_blank">
-    <img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png" alt="linkedin" width="70">
-  </a>
+  <div style="display: flex; gap: 20px;">
+    <a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh" target="_blank">
+      <img src="https://freelogopng.com/images/all_img/1683192847instagram-name-logo-black-and-white.png" alt="Instagram" width="65">
+    </a>
+    <a href="https://www.linkedin.com/in/ricardo-gomes-da-silva-928bab297" target="_blank">
+      <img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png" alt="linkedin" width="70">
+    </a>
+  </div>
 </div>
+
 
 <hr>
 <h3>Known Technologies:</h3>
