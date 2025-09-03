@@ -44,4 +44,5 @@ I love exploring new tools, building coding projects, and turning ideas into rea
  <img title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="125" width="50"/>
 </div>
 <hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
