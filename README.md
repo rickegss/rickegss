@@ -14,7 +14,8 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 
 <ul>
   <li>Currently diving deep into Python, specially its libraries such as Streamlit, Pandas and Plotly</li>
-  <li>Exploring Data Science, Machine Learning, and Back-End Development</li>
+  <li>Taking my first steps with Java</li>
+  <li>Exploring Data Science, Automation, and Back-End Development</li>
   <li>Excited to collaborate on projects and grow a strong, versatile portfolio</li>
 </ul>
 
