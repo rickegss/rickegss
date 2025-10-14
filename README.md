@@ -1,6 +1,14 @@
-# Hello there 👋  
+ # Hello there 👋  
 
-<div> <img src="https://64.media.tumblr.com/4d5b43e2e0dcd4a47128fdf85b9463e9/e7638102a47e4ee5-99/s1280x1920/68f4b6bd8f931af523c5d1391113763a947a07da.gifv" title="Trainer" width="56"> <img src="https://projectpokemon.org/images/sprites-models/bw-animated/644.gif" title="Zekrom" width="80"> <img src="https://projectpokemon.org/images/sprites-models/bw-animated/006.gif" title="Charizard" width="76"> <img src="https://projectpokemon.org/images/sprites-models/bw-animated/448.gif" title="Lucario" width="50.4"> <img src="https://projectpokemon.org/images/sprites-models/bw-animated/024.gif" title="Arbok" width="60"> <img src="https://projectpokemon.org/images/sprites-models/bw-animated/327.gif" title="Spinda" width="32"> <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" title="Pikachu" width="40"> </div>
+<div> 
+  <img src="https://64.media.tumblr.com/4d5b43e2e0dcd4a47128fdf85b9463e9/e7638102a47e4ee5-99/s1280x1920/68f4b6bd8f931af523c5d1391113763a947a07da.gifv" title="Trainer" width="56"> 
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/644.gif" title="Zekrom" width="80"> 
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/006.gif" title="Charizard" width="76"> 
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/448.gif" title="Lucario" width="50.4"> 
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/024.gif" title="Arbok" width="60"> 
+  <img src="https://projectpokemon.org/images/sprites-models/bw-animated/327.gif" title="Spinda" width="32"> 
+  <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" title="Pikachu" width="40"> 
+</div>
 
 ---
 
@@ -17,7 +25,12 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 
 ## 🌐 Social
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;"> <h2>Social:</h2> <div style="display: flex; gap: 20px;"> <a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh" target="_blank"> <img src="https://freelogopng.com/images/all_img/1683192847instagram-name-logo-black-and-white.png" alt="Instagram" width="65"> </a> <a href="https://www.linkedin.com/in/ricardo-gomes-da-silva-928bab297?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsBbi1rdWTzOtzshs1tnQKg%3D%3D" target="_blank"> <img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png" alt="linkedin" width="70"> </a> </div> </div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;"> 
+  <div style="display: flex; gap: 20px;"> 
+    <a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh" target="_blank"><img src="https://freelogopng.com/images/all_img/1683192847instagram-name-logo-black-and-white.png" alt="Instagram" width="65"></a> 
+    <a href="https://www.linkedin.com/in/ricardo-gomes-da-silva-928bab297?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsBbi1rdWTzOtzshs1tnQKg%3D%3D" target="_blank"> <img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png" alt="linkedin" width="70"></a>
+  </div> 
+</div>
 
 ---
 
