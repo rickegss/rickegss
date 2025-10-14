@@ -41,7 +41,7 @@ I love exploring new tools, building coding projects, and turning ideas into rea
  <img title="Pandas" src="https://images.opencollective.com/pandas/6e5c060/logo/256.png" height="80" width="90"/>
  <img title="Plotly" src="https://store-images.s-microsoft.com/image/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.a46845e6-ce94-44cf-892b-54637c6fcf06" height="90" width="75"/>
  <img title="Streamlit" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="120" width="130"/>
- <img title="Supabase" src="https://supabase.com/_next/image?url=https%3A%2F%2Ffrontend-assets.supabase.com%2Fwww%2F6026a824a325%2F_next%2Fstatic%2Fmedia%2Flogo-preview.50e72501.jpg&w=3840&q=75" width="80"/>
+ <img title="Supabase" src="https://supabase.com/_next/image?url=https%3A%2F%2Ffrontend-assets.supabase.com%2Fwww%2F6026a824a325%2F_next%2Fstatic%2Fmedia%2Flogo-preview.50e72501.jpg&w=3840&q=75" width="120"/>
 </div>
 <hr>
 
