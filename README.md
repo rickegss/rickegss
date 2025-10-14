@@ -18,9 +18,14 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 ## 🌐 Social
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;"> <h2>Social:</h2> <div style="display: flex; gap: 20px;"> <a href="https://www.instagram.com/rickegss?igsh=Nm82NnNvZ253ZjVh" target="_blank"> <img src="https://freelogopng.com/images/all_img/1683192847instagram-name-logo-black-and-white.png" alt="Instagram" width="65"> </a> <a href="https://www.linkedin.com/in/ricardo-gomes-da-silva-928bab297?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsBbi1rdWTzOtzshs1tnQKg%3D%3D" target="_blank"> <img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png" alt="linkedin" width="70"> </a> </div> </div>
+
 ---
 
 ## 🧠 Known Technologies
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+---
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
