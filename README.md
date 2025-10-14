@@ -35,15 +35,14 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 
 
 <hr>
-<h3>Known Technologies:</h3>
-<div>
- <![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)>
+### Known Technologies:
+
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-</div>
-<hr>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
