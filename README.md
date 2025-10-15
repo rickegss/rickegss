@@ -11,7 +11,7 @@
 </div>
 
 ---
-
+## ✍️ About Me
 My name is **Ricardo Gomes!**  
 I’m passionate about technology, innovation, and continuous learning.  
 I love exploring new tools, building coding projects, and turning ideas into reality.
