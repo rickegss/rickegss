@@ -54,4 +54,4 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 ---
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=dark&show_icons=true)
