@@ -62,4 +62,5 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickegss&layout=compact&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=dark&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickegss&layout=compact&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=dark&show_icons=true) 
