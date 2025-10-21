@@ -56,7 +56,7 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ---
 
-### Database
+### 🗃️ Database
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
