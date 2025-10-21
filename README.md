@@ -45,6 +45,8 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
 ### 🔧 Frameworks
 
 #### Data Science
@@ -58,6 +60,6 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 
 ### 🗃️ Database
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=dark&show_icons=true)
