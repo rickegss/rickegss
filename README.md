@@ -1,4 +1,6 @@
- # Hello there 👋  
+ # Hello there 👋
+ 
+ ![Visitas](https://komarev.com/ghpvc/?username=rickegss&label=profile+views&color=blueviolet&style=plastic)
 
 <div> 
   <img src="https://64.media.tumblr.com/4d5b43e2e0dcd4a47128fdf85b9463e9/e7638102a47e4ee5-99/s1280x1920/68f4b6bd8f931af523c5d1391113763a947a07da.gifv" title="Trainer" width="56"> 
@@ -72,3 +74,5 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickegss&layout=compact&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=dark&show_icons=true)
+
+
