@@ -9,7 +9,7 @@
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/448.gif" title="Lucario" width="50.4"> 
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/024.gif" title="Arbok" width="60"> 
   <img src="https://projectpokemon.org/images/sprites-models/bw-animated/327.gif" title="Spinda" width="32"> 
-  <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" title="Pikachu" width="40"> 
+  <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" title="Pikachu" width="40">
 </div>
 
 ---
