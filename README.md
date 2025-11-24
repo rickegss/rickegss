@@ -13,15 +13,19 @@
 </div>
 
 ---
-### ✍️ About Me
-My name is **Ricardo Gomes!**  
-I’m passionate about technology, innovation, and continuous learning.  
-I love exploring new tools, building coding projects, and turning ideas into reality.
+### Hi there, I'm Ricardo Gomes! 👋
 
-- Currently diving deep into **Python**, specially its libraries such as **Streamlit**, **Pandas** and **Plotly**  
-- Taking my first steps with **Java**  
-- Exploring **Data Science**, **Automation**, and **Back-End Development**  
-- Excited to collaborate on projects and grow a strong, versatile portfolio  
+I'm a Software Engineering student focusing on **Back-End Development**.
+
+My journey started with Python for data analysis and automation, and now I'm dedicating my studies to building robust systems with **Java**. I enjoy solving logic problems and optimizing workflows.
+
+**💻 What I'm working with:**
+
+* **Main Focus:** Java (Object-Oriented Programming, Backend logic)
+* **Data & Automation:** Python (Streamlit, Pandas, Plotly)
+* **Interests:** System Architecture, API Development, Database Management and Linux Operational System.
+
+**🚀 Current Goal:** Deepening my knowledge in Java ecosystems and building scalable backend solutions.
 
 ---
 
