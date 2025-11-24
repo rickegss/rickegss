@@ -66,7 +66,7 @@ I love exploring new tools, building coding projects, and turning ideas into rea
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=demo&theme=tokyonight&show_icons=true&hide=jupyter%20notebook,glsl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&theme=tokyonight&show_icons=true&hide=jupyter%20notebook,glsl)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickegss&layout=compact&theme=tokyonight) 
 
 
