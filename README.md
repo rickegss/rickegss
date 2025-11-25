@@ -46,7 +46,7 @@
       </p>
     </td>
     <td width="45%" align="center">
-      <img width="736" height="744" alt="image" src="https://github.com/user-attachments/assets/9f01b3f6-b29e-4f6f-9ada-fc66cbd93ac4" />
+      <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9f01b3f6-b29e-4f6f-9ada-fc66cbd93ac4" />
     </td>
   </tr>
 </table>
