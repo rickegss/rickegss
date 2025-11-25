@@ -78,9 +78,9 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rickegss&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rickegss&show_icons=true&theme=transparent&count_private=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide=html,css,jupyter%20notebook" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook" height="150" alt="languages graph" />
 </div>
 
 <hr style="border: 1px solid #303030; width: 80%; margin: 30px auto;">
