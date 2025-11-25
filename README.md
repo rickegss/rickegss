@@ -4,7 +4,7 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ricardo+Gomes;Software+Engineering+Student;Java+%26+Python+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ricardo+Gomes;Software+Engineering;Java+%26+Python+Development" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -29,7 +29,7 @@
 <table align="center" style="border: none; width: 100%;">
   <tr>
     <td width="60%" valign="middle"> <p>
-        I'm a <b>Software Engineering student</b> passionate about building scalable solutions. My journey started with Python for data automation, and I am now deeply focused on <b>Java Ecosystems</b> for robust backend development.
+        <b>Software Engineering student</b> dedicated to learning scalable architecture on back-end side. Currently honing my skills in <b>Java Ecosystems</b> and <b>Python</b> through practical application and development.
       </p>
       <p>
         <b>💻 What I'm working with:</b>
@@ -37,10 +37,11 @@
       <ul>
         <li><b>Main Focus:</b> Java (OOP, Backend Logic)</li>
         <li><b>Data & Automation:</b> Python (Pandas, Streamlit, Plotly)</li>
+        <li><b>Databases:</b> SQL and noSQL (PostgreSQL)</li>
         <li><b>System:</b> Arch Linux (Hyprland Ricing & Shell Scripting)</li>
       </ul>
       <p>
-        🚀 <b>Current Goal:</b> Mastering System Architecture and building API-first solutions for the international market.
+        <b>Current Goal:</b> Building a solid foundation in software engineering principles and backend logic.
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -69,13 +70,13 @@
 
   <br/>
 
-  <h3>Databases & BaaS</h3>
+  <h3>Databases </h3>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=151515"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&color=151515"/>
 
   <br/>
 
-  <h3>Tools, OS & Version Control</h3>
+  <h3>OS & Tools</h3>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&color=151515"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=151515"/>
 </div>
