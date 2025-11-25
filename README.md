@@ -1,7 +1,5 @@
-<img width="736" height="744" alt="image" src="https://github.com/user-attachments/assets/2a2c3505-ebae-4b72-b56a-2b5b2c5e8256" /><div align="center">
-
   <div align="center">
-  <img src="https://cdn.wallpapersafari.com/5/39/IAiWz2.jpg" alt="Banner" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
+  <img width="472" height="315" alt="image" src="https://github.com/user-attachments/assets/af036388-c559-4b88-95bf-d930b6341e55" alt="Banner" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
 </div>
 
   <br/><br/>
