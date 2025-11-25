@@ -46,7 +46,7 @@
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="https://i.pinimg.com/originals/1c/17/30/1c1730f78d9b1398bb12613008064bf2.gif" width="90%" style="border-radius: 10px; opacity: 0.9;">
+      <img src="blob:https://web.whatsapp.com/bf8adee5-1218-43cf-b226-233a57c5836e" width="90%" style="border-radius: 10px; opacity: 0.9;">
     </td>
   </tr>
 </table>
