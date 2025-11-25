@@ -1,4 +1,4 @@
-<div align="center">
+<img width="736" height="744" alt="image" src="https://github.com/user-attachments/assets/2a2c3505-ebae-4b72-b56a-2b5b2c5e8256" /><div align="center">
 
   <div align="center">
   <img src="https://cdn.wallpapersafari.com/5/39/IAiWz2.jpg" alt="Banner" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
@@ -46,7 +46,7 @@
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="blob:https://web.whatsapp.com/bf8adee5-1218-43cf-b226-233a57c5836e" width="90%" style="border-radius: 10px; opacity: 0.9;">
+      <img width="736" height="744" alt="image" src="https://github.com/user-attachments/assets/9f01b3f6-b29e-4f6f-9ada-fc66cbd93ac4" />
     </td>
   </tr>
 </table>
