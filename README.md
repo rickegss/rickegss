@@ -79,9 +79,9 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rickegss&show_icons=true&theme=gotham&hide_border=true&bg_color=151515" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=gotham&hide_border=true&bg_color=151515&langs_count=8&hide=html,css" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rickegss&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" height="180" alt="stats graph" />
+<br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rickegss&hide_border=true&layout=compact&hide=html,css,glsl,jupyter%20notebook&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=6&langs_colors=ffffff,e0e0e0,c0c0c0,a0a0a0,808080" height="180" alt="languages graph" />
 </div>
 
 <hr style="border: 1px solid #303030; width: 80%; margin: 30px auto;">
