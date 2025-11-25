@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://cdn.wallpapersafari.com/5/39/IAiWz2.jpg?q=80&w=1000&auto=format&fit=crop" alt="Banner" width="100%" height="200" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://cdn.wallpapersafari.com/5/39/IAiWz2.jpg?q=80&w=1000&auto=format&fit=crop" alt="Banner" width="100%" height="720" style="object-fit: cover; border-radius: 10px;">
 
   <br/><br/>
 
