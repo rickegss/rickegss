@@ -3,7 +3,7 @@
  ![Visitors](https://komarev.com/ghpvc/?username=rickegss&label=profile+views&color=blueviolet&style=plastic)
 
 <div> 
-  <img src="https://i.redd.it/31uy8i1ynks91.gif" title="Background", height="360", width="720"> 
+  <img src="https://i.redd.it/31uy8i1ynks91.gif" title="Background", height="180", width="720"> 
 </div>
 
 ---
