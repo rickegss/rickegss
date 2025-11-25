@@ -80,7 +80,7 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rickegss&show_icons=true&theme=tokyonight&hide_border=true" height="300" alt="stats graph" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter%20notebook" height="300" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter%20notebook" height="600" alt="languages graph" />
 </div>
 
 <hr style="border: 1px solid #303030; width: 80%; margin: 30px auto;">
