@@ -91,3 +91,11 @@
 </div>
 
 <hr style="border: 1px solid #303030; width: 100%; margin: 30px auto;">
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rickegss/rickegss/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rickegss/rickegss/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rickegss/rickegss/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
