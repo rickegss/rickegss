@@ -5,7 +5,7 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ricardo+Gomes;Software+Engineering+Student;Java+%26+Python+Developer;Arch+Linux+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ricardo+Gomes;Software+Engineering+;Java+%26+Python+Developer;" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -78,9 +78,9 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rickegss&show_icons=true&theme=transparent&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rickegss&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide=html,css,jupyter%20notebook" height="150" alt="languages graph" />
 </div>
 
 <hr style="border: 1px solid #303030; width: 80%; margin: 30px auto;">
