@@ -158,11 +158,11 @@ I'm a <b>Software Engineering student</b> passionate about building scalable sol
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rickegss&show_icons=true&theme=tokyonight&hide_border=true" height="300" alt="stats graph" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rickegss&show_icons=true&theme=shades-of-purple&hide_border=true" height="300" alt="stats graph" />
 
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter%20notebook" height="600" alt="languages graph" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=shades-of-purple&hide_border=true&hide=html,css,jupyter%20notebook" height="600" alt="languages graph" />
 
 </div>
 
