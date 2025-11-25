@@ -54,10 +54,12 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
+  <h3>Programming & Mark-up Languages</h3>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=101010"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=101010"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&color=101010"/>
-  
+
+  <h3>Data Science</h3>
   <br/><br/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=151515"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&color=151515"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&color=151515"/>
@@ -65,6 +67,7 @@
 
   <br/><br/>
 
+  <h3>DataBases</h3>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&color=202020"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=202020"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&color=202020"/>
@@ -76,8 +79,9 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rickegss&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=shades-of-purple&hide_border=true&hide=html,css,jupyter%20notebook&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rickegss&show_icons=true&theme=gotham&hide_border=true&bg_color=151515" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rickegss&layout=compact&theme=gotham&hide_border=true&bg_color=151515&langs_count=8&hide=html,css" height="180" alt="languages graph" />
 </div>
 
 <hr style="border: 1px solid #303030; width: 80%; margin: 30px auto;">
