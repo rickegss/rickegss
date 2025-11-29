@@ -18,6 +18,12 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=151515" height="30" alt="Instagram"/>
     </a>
     &nbsp;
+    <a href="https://api.whatsapp.com/send/?phone=5562991699163&text&type=phone_number&app_absent=0" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=151515" height="30" alt="Whatsapp"/>
+    </a>  
+    <a href="https://ricksilvagomes1@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=151515" height="30" alt="Gmail"/>
+    </a>  
     <img src="https://komarev.com/ghpvc/?username=rickegss&label=Views&color=151515&style=for-the-badge&label_color=151515" height="30" alt="views"/>
   </p>
 </div>
