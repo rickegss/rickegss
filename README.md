@@ -92,7 +92,7 @@
 <h2 align="center"> GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rickegss&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rickegss&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" height="180" alt="stats graph" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=aaaaaa&include_all_commits=true&hide=jupyter%20notebook,glsl&langs_count=15&langs_colors=ffffff,ffffff,ffffff,ffffff,ffffff,ffffff,ffffff,ffffff,ffffff,ffffff&t=1" height="180" alt="languages graph"/>
 </div>
