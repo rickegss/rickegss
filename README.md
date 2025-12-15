@@ -94,7 +94,7 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rickegss&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" height="180" alt="stats graph" />
   <br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=aaaaaa&include_all_commits=true&hide=jupyter%20notebook,glsl,shell" height="180" alt="languages graph"/> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickegss&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=aaaaaa&size_weight=0.7&count_weight=0.7&include_all_commits=true&hide=jupyter%20notebook,glsl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" alt="languages graph"/> 
 </div>
 
 
