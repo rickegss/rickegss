@@ -51,7 +51,7 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/9f01b3f6-b29e-4f6f-9ada-fc66cbd93ac4" width="90%" style="border-radius: 50%; border: 3px solid #303030;" alt="Ricardo Profile"/>
+      <img src="https://github.com/user-attachments/assets/6a395aa7-8a2b-4492-9ca3-55304fe89a9d" width="100%" style="border-radius: 50%; border: 3px solid #303030;" alt="Ricardo Profile"/>
     </td>
   </tr>
 </table>
