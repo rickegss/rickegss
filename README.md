@@ -4,7 +4,7 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ricardo+Gomes;Software+Engineering;Java+%26+Python+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ricardo+Gomes;Software+Engineering;Java+%26+Python+Development;CyberSecurity" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -41,13 +41,14 @@
         <b>💻 What I'm working with:</b>
       </p>
       <ul>
-        <li><b>Main Focus:</b> Java (OOP, Backend Logic)</li>
-        <li><b>Data & Automation:</b> Python (Pandas, Streamlit, Plotly)</li>
-        <li><b>Databases:</b> SQL and noSQL (PostgreSQL)</li>
+        <li><b>Main Focus:</b> Java (OOP, Springboot)</li>
+        <li><b>Data & Automation:</b> Python (Pandas/Polars, Plotly, Jupyter Notebook)</li>
+        <li><b>Databases:</b> SQL (PostgreSQL) through Docker</li>
         <li><b>System:</b> Arch Linux (Hyprland Ricing & Shell Scripting)</li>
+        <li><b>Security:</b> Applying security best practices in development and exploring CyberSecurity in greater depth </li>
       </ul>
       <p>
-        <b>Current Goal:</b> Building a solid foundation in software engineering principles and backend logic.
+        <b>Current Goal:</b> Building a solid foundation in software engineering principles and backend logic and infrastructure.
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
